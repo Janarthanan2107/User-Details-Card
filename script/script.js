@@ -17,7 +17,7 @@ const bodyContainer = document.getElementById("card-container")
 // DataBase
 let items = [
     { id: 1, username: "Jana", email: "Janarthanan@gmail.com", profession: "FullStack Developer", contact: "8110864319", gender: "male", years: 2 },
-    { id: 2, username: "Shalini", email: "ShaliniSkt@gmail.com", profession: "Python Developer", contact: "8667247110", gender: "female", years: 2 },
+    { id: 2, username: "Shalini", email: "ShaliniSkt@gmail.com", profession: "Python Developer", contact: "8667244610", gender: "female", years: 2 },
 ]
 let isEditing;
 let itemToEdit;
