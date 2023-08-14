@@ -136,9 +136,9 @@ a {
     padding: 10px;
     border-radius: 10px;
     background: white;
-    display: flex;
     align-items: center;
     gap: 1rem;
+    display: flex;
     flex-wrap: wrap;
 }
 
@@ -149,6 +149,7 @@ a {
     border-radius: 15px;
     background-color: #fff;
     /* box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2); */
+    flex: 1 1 150px;
 }
 
 .card-container .card:hover {
